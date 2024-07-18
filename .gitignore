@@ -15,3 +15,4 @@
 /kanban-dashboard/terraform.tfstate.backup
 /kanban-dashboard/secrets.tf
 /kanban-dashboard/variables.tf
+/kanban-dashboard/config-map.tf
