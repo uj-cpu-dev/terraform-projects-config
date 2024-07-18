@@ -1,0 +1,17 @@
+####
+.env
+/customer-portal/script
+/customer-portal/.terraform
+/customer-portal/.terraform.lock.hcl
+/customer-portal/terraform.tfstate
+/customer-portal/terraform.tfstate.backup
+/customer-portal/secrets.tf
+/customer-portal/variables.tf
+
+/kanban-dashboard/script
+/kanban-dashboard/.terraform
+/kanban-dashboard/.terraform.lock.hcl
+/kanban-dashboard/terraform.tfstate
+/kanban-dashboard/terraform.tfstate.backup
+/kanban-dashboard/secrets.tf
+/kanban-dashboard/variables.tf
